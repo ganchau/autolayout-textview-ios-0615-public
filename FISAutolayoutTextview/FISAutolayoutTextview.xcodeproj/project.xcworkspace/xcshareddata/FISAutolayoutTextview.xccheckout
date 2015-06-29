@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5A1A6870-10FF-4BC0-969A-8366E79CFAEF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FISAutolayoutTextview</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3971AA7A8A9A3D337EC09C080B7C2D7484E38AF8</key>
+		<string>github.com:ganchau/autolayout-textview-ios-0615.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FISAutolayoutTextview/FISAutolayoutTextview.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3971AA7A8A9A3D337EC09C080B7C2D7484E38AF8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ganchau/autolayout-textview-ios-0615.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3971AA7A8A9A3D337EC09C080B7C2D7484E38AF8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3971AA7A8A9A3D337EC09C080B7C2D7484E38AF8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>autolayout-textview-ios-0615</string>
+		</dict>
+	</array>
+</dict>
+</plist>
